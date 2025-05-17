@@ -1,4 +1,4 @@
-****Movie Recommendation System 🎬****
+**Movie Recommendation System 🎬**
 This is a content-based movie recommendation system built using Python and deployed with Streamlit for an interactive user experience.
 
 **🔍 Goal**
