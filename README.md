@@ -17,13 +17,6 @@ The model is trained and stored using **Pickle** and deployed as a web app using
 * 💾 Lightweight model storage with Pickle
 * ⚡ Fast, responsive, and easy to use
 
-## 🖼️ Screenshot
-
-Make sure to upload your image to the GitHub repo (e.g., in an images folder), then use this:
-
-```markdown
-![Movie Recommender Screenshot](images.png)
-```
 
 ## 💡 Technologies Used
 
@@ -34,4 +27,4 @@ Make sure to upload your image to the GitHub repo (e.g., in an images folder), t
 * Pickle
 * Natural Language Processing (BoW, Cosine Similarity)
 
-Let me know if you'd like this in a downloadable .md file or help setting up your GitHub repo structure (with folders like images/, app/, etc.).
+
