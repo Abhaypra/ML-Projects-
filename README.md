@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System
+# 🎬 PopcornPulse
 
 **An intelligent and interactive movie recommendation system built using Python, Machine Learning, and Streamlit.**
 It analyzes the content of movies using Natural Language Processing techniques like **Bag of Words (BoW)** and recommends similar movies based on user input.
